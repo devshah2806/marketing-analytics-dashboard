@@ -34,3 +34,9 @@ Three platform-specific source tables are normalized into a single `unified_ads`
 - Facebook is the most capital-efficient platform (CPA $7.64) despite receiving only 14% of budget.
 - TikTok's Influencer Collab campaign holds viewers 37% longer than Awareness_GenZ, with the best full-completion rate (30.4%) in the account.
 - Recommended channel strategy: TikTok for awareness → Facebook for retargeting → Google Search to close intent.
+
+## Database
+
+Data is hosted on Supabase (PostgreSQL).
+
+**Project URL:** https://jkidgebephvlfumtaybb.supabase.co
